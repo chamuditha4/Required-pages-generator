@@ -17,11 +17,11 @@ function myFunction() {
 
 "<h2>Log Files</h2>\n\n" +
 
-"<p>" + x + "follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.\n\n" +
+"<p>" + x + " follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.\n\n" +
 
 "<h2>Cookies and Web Beacons</h2>\n\n" +
 
-"<p>Like any other website, " + x + "uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>\n\n" + 
+"<p>Like any other website, " + x + " uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>\n\n" + 
 
 "<h2>Google DoubleClick DART Cookie</h2>\n\n" +
 
@@ -70,13 +70,13 @@ function myFunction() {
 
 "<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>" +
 
-"<p>" + x +"does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>" ;
+"<p>" + x +" does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>" ;
 
     var tos = "<h2>Website Terms of Use</h2>\n\n" +
 
 "<p>Version 1.0</p>\n\n" +
 
-"<p>The " + x + "website located at " + y + "is a copyrighted work belonging to " + w +". Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.</p>\n\n" +
+"<p>The " + x + " website located at " + y + " is a copyrighted work belonging to " + w +". Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.</p>\n\n" +
 
 "<p>All such additional terms, guidelines, and rules are incorporated by reference into these Terms.</p>\n\n"+
 
@@ -106,7 +106,7 @@ function myFunction() {
 
 "<p>You hereby release and forever discharge the Company and our officers, employees, agents, successors, and assigns from, and hereby waive and relinquish, each and every past, present and future dispute, claim, controversy, demand, right, obligation, liability, action and cause of action of every kind and nature, that has arisen or arises directly or indirectly out of, or that relates directly or indirectly to, the Site. If you are a California resident, you hereby waive California civil code section 1542 in connection with the foregoing, which states: a general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.</p>\n\n" +
 
-"<p><strong>Cookies and Web Beacons.</strong> Like any other website, " + x + "uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.</p>\n\n" +
+"<p><strong>Cookies and Web Beacons.</strong> Like any other website, " + x + " uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.</p>\n\n" +
 
 "<p><strong>Google DoubleClick DART Cookie.</strong> Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy.</p>\n\n" +
 
